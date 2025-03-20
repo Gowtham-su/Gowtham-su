@@ -1,6 +1,6 @@
 ## Hello 👋
 
-<!--
+
 **Gowtham-su/Gowtham-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤝 I’m looking to collaborate on SQL, EXCEL, PYTHON and DATA VISUALIZATION PROJECTS Using POWER BI or TABLEAU
 - 👩‍💻 In my free time, I Learn Latest Updates in Data Domain.
 - 📫 reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-su)
--->
+
 
 
 
