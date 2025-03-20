@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://img.shields.io/badge/www.linkedin.com%2Fin%2Fgowtham-su
+
