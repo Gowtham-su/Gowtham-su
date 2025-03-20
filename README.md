@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/badge/www.linkedin.com%2Fin%2Fgowtham-su
+<img alt="Static Badge" src="https://img.shields.io/badge/www.linkedin.com%2Fin%2Fgowtham-su">
 
