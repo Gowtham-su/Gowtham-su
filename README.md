@@ -10,7 +10,7 @@ SQL for data extraction and manipulation
 
 Excel for data cleaning and reporting
 
-Power BI for creating dynamic dashboards
+Power BI & Tableau for creating dynamic dashboards
 
 Python for data analysis and automation
 
